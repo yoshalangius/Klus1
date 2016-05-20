@@ -1,0 +1,243 @@
+fileFormatVersion: 2
+guid: 00e44a1438bdad645859e234271926b1
+timeCreated: 1463559529
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: jump animation_1
+    21300002: jump animation_2
+    21300004: jump animation_3
+    21300006: jump animation_4
+    21300008: jump animation_5
+    21300010: jump animation_6
+    21300012: jump animation_7
+    21300014: jump animation_8
+    21300016: jump animation_9
+    21300018: jump animation_10
+    21300020: jump animation_11
+    21300022: jump animation_12
+    21300024: jump animation_13
+    21300026: jump animation_14
+    21300028: jump animation_15
+    21300030: jump animation_0
+    21300032: jump animation_16
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: jump animation_1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 3184
+        width: 265
+        height: 912
+      alignment: 9
+      pivot: {x: .479384512, y: .45051226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump animation_2
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 3199
+        width: 267
+        height: 897
+      alignment: 9
+      pivot: {x: .478765696, y: .441500962}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump animation_3
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 3213
+        width: 267
+        height: 883
+      alignment: 9
+      pivot: {x: .480348289, y: .432249457}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump animation_4
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 3224
+        width: 267
+        height: 872
+      alignment: 9
+      pivot: {x: .482702136, y: .426695943}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump animation_5
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 3215
+        width: 245
+        height: 881
+      alignment: 9
+      pivot: {x: .517126739, y: .432931989}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump animation_6
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 3205
+        width: 283
+        height: 891
+      alignment: 9
+      pivot: {x: .444722861, y: .438515186}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump animation_7
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 2261
+        width: 461
+        height: 915
+      alignment: 9
+      pivot: {x: .433048546, y: .450105131}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump animation_8
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 2261
+        width: 432
+        height: 916
+      alignment: 9
+      pivot: {x: .445796818, y: .448668361}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump animation_9
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2261
+        width: 409
+        height: 915
+      alignment: 9
+      pivot: {x: .470792651, y: .449576557}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump animation_10
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1335
+        width: 374
+        height: 921
+      alignment: 9
+      pivot: {x: .495885223, y: .449716836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump animation_11
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1336
+        width: 342
+        height: 920
+      alignment: 9
+      pivot: {x: .524090171, y: .448554009}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump animation_12
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1335
+        width: 282
+        height: 918
+      alignment: 9
+      pivot: {x: .488698095, y: .451371998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump animation_13
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1335
+        width: 243
+        height: 918
+      alignment: 9
+      pivot: {x: .51561296, y: .451607645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump animation_14
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 1333
+        width: 242
+        height: 923
+      alignment: 9
+      pivot: {x: .522665739, y: .451446712}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump animation_15
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 1333
+        width: 248
+        height: 923
+      alignment: 9
+      pivot: {x: .493794113, y: .449942976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump animation_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 2263
+        width: 381
+        height: 912
+      alignment: 9
+      pivot: {x: .426702052, y: .447298467}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jump animation_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3175
+        width: 282
+        height: 921
+      alignment: 9
+      pivot: {x: .491462231, y: .456351846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
